@@ -331,6 +331,59 @@ A precompiled wizard will open:
 
 Proceed with the Next button until the Wizard is complete.
 
+Use the personal Cloud to send and receive documents
+====================================================
+
+The integration of the Mail module with the Cloud module allows to send and receive documents throug web links.
+
+.. note::
+
+   The server must be reachable in http on port 80   
+How to create a link to send a document.
+----------------------------------------
+To create the link, select the button at the top right:
+
+.. image:: _static/doc_cloud1.png
+
+Follow the wizard to generate the link. You can set a deadline after which the link will no longer be usable:
+
+.. image:: _static/doc_cloud2.png
+
+you can create a password to protect it:
+
+.. image:: _static/doc_cloud3.png
+
+Then the link will be generated and will be inserted in the new mail:
+
+.. image:: _static/doc_cloud4.png
+.. image:: _static/doc_cloud5.png
+
+Downloading the file, generates a notification to the sender:
+
+.. image:: _static/doc_cloud6.png
+Request for a document.
+-----------------------
+To create the request, insert the subject of the email than select the button at the top right:
+
+.. image:: _static/doc_cloud7.png
+
+Follow the wizard. you can set both an expiration date and a password.
+When you have completed the wizard, the link will be automatically inserted in the email:
+
+.. image:: _static/doc_cloud8.png
+
+A request email will be sent to upload the document to the Cloud:
+
+.. image:: _static/doc_cloud9.png
+
+For each file that will be uploaded to the Cloud, the sender will receive a notification:
+
+.. image:: _static/doc_clou10.png
+
+To download the files just access your personal Cloud -> Uploads -> Folder with date and name:
+
+.. image:: _static/doc_cloud11.png
+
 Chat integration
 ================
 
